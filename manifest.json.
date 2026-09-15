@@ -1,0 +1,10 @@
+{
+  "name": "StudyQuest: Stress-Less Adventure",
+  "short_name": "StudyQuest",
+  "description": "An interactive game for managing academic stress among Grade 12 students.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#6a5acd",
+  "theme_color": "#6a5acd",
+  "orientation": "portrait"
+}
